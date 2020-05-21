@@ -1,0 +1,12 @@
+.instrucciones {
+	margin: 30px;
+	background-color: white;
+}
+.lista {
+	padding: 100px;
+	background-color: pink;
+}
+.alert {
+	display: none;
+	background-color: aqua;
+}
